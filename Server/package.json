@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "net": "^1.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "Server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
